@@ -1,5 +1,6 @@
 # 나만의 버킷리스트 
-> ReactJS로 구현한 To-do list
+* 일정 : 2022.05.20 ~ 2022.05.26
+* 사용 기술 : React, Redux, styled-component
 
 ## 메인
 > <img src=https://user-images.githubusercontent.com/102746846/170443501-93679a3f-c55d-4947-9efa-fd43582cc5b1.png height=500 />
